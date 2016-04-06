@@ -4,7 +4,7 @@
 		<display_name>I2B2 demo metadata for oracle</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_ORACLE.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/Demo/I2B2_ORACLE.zip</URL>
 		<file_name>dropins/I2B2_ORACLE.zip</file_name>
 		<table_name>I2B2_ORACLE</table_name>
 		<version>1.7</version>
@@ -17,7 +17,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>I2B2 demo metadata for sqlserver</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_SQLSERVER.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/Demo/I2B2_SQLSERVER.zip</URL>
 		<file_name>dropins/I2B2_SQLSERVER.zip</file_name>
 		<table_name>I2B2_SQLSERVER</table_name>
 		<version>1.7</version>
@@ -30,7 +30,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>I2B2 demo metadata for postgres</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/I2B2_POSTGRES.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/Demo/I2B2_POSTGRES.zip</URL>
 		<file_name>dropins/I2B2_POSTGRES.zip</file_name>
 		<table_name>I2B2_POSTGRES</table_name>
 		<version>1.7</version>
@@ -43,7 +43,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>ICD10-ICD9 merged ontology</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/ICD10_ICD9.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/Demo/ICD10_ICD9.zip</URL>
 		<file_name>dropins/ICD10_ICD9.zip</file_name>
 		<table_name>ICD10_ICD9</table_name>
 		<version>1.7</version>
@@ -56,7 +56,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>Sequence ontology</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/Demo/SEQUENCE_ONTOLOGY.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/Demo/SEQUENCE_ONTOLOGY.zip</URL>
 		<file_name>dropins/SEQUENCE_ONTOLOGY.zip</file_name>
 		<table_name>SEQUENCE_ONTOLOGY</table_name>
 		<version>1.7</version>
@@ -69,7 +69,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>ICD9CM</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD9CM_2014AA.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/UMLS/ICD9CM_2014AA.zip</URL>
 		<file_name>dropins/ICD9CM_2014AA.zip</file_name>
 		<table_name>ICD9CM_2014AA</table_name>
 		<version>2014AA</version>
@@ -82,7 +82,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>ICD10CM</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD10CM_2015AA.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/UMLS/ICD10CM_2015AA.zip</URL>
 		<file_name>dropins/ICD10CM_2015AA.zip</file_name>
 		<table_name>ICD10CM_2015AA</table_name>
 		<version>2015AA</version>
@@ -95,7 +95,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>ICD10PCS</display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/ICD10PCS_2015AA.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/UMLS/ICD10PCS_2015AA.zip</URL>
 		<file_name>dropins/ICD10PCS_2015AA.zip</file_name>
 		<table_name>ICD10PCS_2015AA</table_name>
 		<version>2015AA</version>
@@ -108,7 +108,7 @@ Strings are quoted with the ' " ' identifier </description>
 		<display_name>LOINC (no metadataxml) </display_name>
 		<description>File is '|' delimited; first row specifies column headings
 Strings are quoted with the ' " ' identifier </description>
-		<URL>https://raw.githubusercontent.com/lcphillips2/ontologies/master/UMLS/LOINC_2014AB.zip</URL>
+		<URL>https://raw.githubusercontent.com/i2b2plugins/i2b2-ontology-catalog/master/UMLS/LOINC_2014AB.zip</URL>
 		<file_name>dropins/LOINC_2014AB.zip</file_name>
 		<table_name>LOINC_2014AB</table_name>
 		<version>2014AB</version>
